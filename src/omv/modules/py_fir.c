@@ -58,7 +58,7 @@
 #define MLX90641_EEPROM_DATA_SIZE       832
 #define MLX90641_FRAME_DATA_SIZE        242
 
-#define AMG8833_ADDR                    0xD2
+#define AMG8833_ADDR                    0x69
 #define AMG8833_WIDTH                   8
 #define AMG8833_HEIGHT                  8
 #define AMG8833_RESET_REGISTER          0x01
